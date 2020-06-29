@@ -44,7 +44,7 @@ ITEM_PIPELINES = {
 
 ```bash
 git clone https://github.com/YIKAILucas/meizitu.git
-cd Meizitu
+cd meizitu
 pip install -r requirements.txt
 
 python3 main.py
@@ -52,9 +52,9 @@ python3 main.py
 
 ## 四、效果图
 
-![效果图](https://i.loli.net/2020/06/29/pmyvNXH9x7PgKJ6.png)
+![效果图](https://vimeracke.oss-cn-shenzhen.aliyuncs.com/uPic/0AZ3Ya.png)
 
-![](https://i.loli.net/2020/06/29/kQKFj6MpsIfgzac.png)
+![](https://vimeracke.oss-cn-shenzhen.aliyuncs.com/uPic/d4kDMM.png)
 
 ## 后续 Feature
 
